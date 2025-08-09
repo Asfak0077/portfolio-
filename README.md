@@ -1,33 +1,42 @@
-.
+Here’s a simple step-by-step description of how to run your HTML, CSS, and JavaScript portfolio project in VS Code:
 
-📁 Portfolio Website
-A personal Portfolio Website built with HTML, CSS, and JavaScript to showcase projects, skills, and contact information. Fully responsive and designed for both desktop and mobile users.
+⸻
 
-🚀 Live Demo
-👉 View Live Site
+1. Install VS Code (if not already installed)
+	•	Download from https://code.visualstudio.com/
+	•	Install and open it.
 
-(Replace the URL with your GitHub Pages link if hosted)
+⸻
 
-📸 Screenshots
-(Optional: Add screenshots of your portfolio layout)
+2. Open your project folder
+	•	Go to File → Open Folder.
+	•	Select the folder containing your index.html, style.css, and script.js.
 
-🛠️ Tech Stack
-HTML5
+⸻
 
-CSS3 (Flexbox/Grid, Media Queries)
+3. Install Live Server extension (recommended)
+	•	Click the Extensions icon on the left sidebar (or press Ctrl+Shift+X).
+	•	Search for “Live Server” by Ritwick Dey.
+	•	Click Install.
 
-JavaScript (DOM Manipulation, Event Handling)
+⸻
 
-🎯 Features
-🧑‍💼 About Section
+4. Open index.html
+	•	In the Explorer panel, double-click on index.html to open it.
 
-🛠️ Skills List
+⸻
 
-📂 Project Showcase with images and links
+5. Run the project
+	•	Right-click anywhere in index.html and choose “Open with Live Server”.
+	•	Your browser will open showing the portfolio site.
+	•	Any changes you save will automatically refresh in the browser.
 
-📫 Contact Form (with or without form backend)
+⸻
 
-🌙 Light/Dark Mode (optional)
+6. Without Live Server (manual method)
+	•	Just double-click your index.html file from File Explorer / Finder.
+	•	It will open in your default browser, but you’ll have to refresh manually after edits.
 
-🔁 Responsive Layout
+⸻
 
+If you want, I can also give you a short one-paragraph description for your README explaining how to run it in VS Code. Would you like me to make that?
